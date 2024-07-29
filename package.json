@@ -1,0 +1,16 @@
+{
+    "name": "todo-app",
+    "version": "1.0.0",
+    "description": "Simple Todo List Manager",
+    "main": "dist/app.js",
+    "scripts": {
+        "start": "node dist/app.js",
+        "build": "tsc"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^22.0.0",
+        "typescript": "^5.5.4"
+    }
+}
